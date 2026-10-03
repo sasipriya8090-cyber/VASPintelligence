@@ -1,0 +1,14 @@
+# DEMO DATA — NOT REAL VASP ATTRIBUTION — FOR TESTING & DEMONSTRATION PURPOSES ONLY
+address,name,type,blockchain,source,confidence
+0x28c6c06298d514db089934071355e5743bf21d60,Demo Binance Hot Wallet 6,Centralized Exchange (CEX),ethereum,DEMO Registry,0.95
+0x21a31ee1afc51d94c2efccaa2092ad1028285549,Demo Binance Hot Wallet 14,Centralized Exchange (CEX),ethereum,DEMO Registry,0.92
+0x503828976d22510aad0201ac7ec88293211d23dc,Demo Coinbase Hot Wallet,Centralized Exchange (CEX),ethereum,DEMO Registry,0.98
+0x71c7656ec7ab88b098defb751b7401b5f6d8976f,Demo Kraken Deposit Pool,Centralized Exchange (CEX),ethereum,DEMO Registry,0.89
+0x3f5ce5fbfe3e9af3971dd833d26ba9b5c936f0be,Demo OKX Hot Wallet,Centralized Exchange (CEX),ethereum,DEMO Registry,0.88
+0xdfd5293d8e347dff59e4571400ba7aba95eeb0e9,Demo Uniswap Universal Router,Decentralized Exchange (DEX),ethereum,DEMO Registry,0.96
+0x1111111254eeb25477b68fb85ed929f73a960582,Demo 1inch V5 Aggregator,DEX Aggregator,ethereum,DEMO Registry,0.94
+0xdac17f958d2ee523a2206206994597c13d831ec7,Demo Tether Treasury Proxy,Token Contract/Treasury,ethereum,DEMO Registry,0.85
+0x0d0707963952f2fba59dd06f2b425ace40b492fe,Demo Gate.io Hot Wallet,Centralized Exchange (CEX),ethereum,DEMO Registry,0.90
+0x47ac0fb4f2d84898e4d9e7b4dab3c24507a6d503,Demo Bitfinex Hot Wallet,Centralized Exchange (CEX),ethereum,DEMO Registry,0.91
+0x75e89d5979e4f6fba9f97c104c2f0afb3f1dcb88,Demo KuCoin Deposit Pool,Centralized Exchange (CEX),ethereum,DEMO Registry,0.87
+0xa097d6442d85b6db777447d1cf4633008eb7b671,Demo Huobi Cold/Warm Cluster,Centralized Exchange (CEX),ethereum,DEMO Registry,0.84
